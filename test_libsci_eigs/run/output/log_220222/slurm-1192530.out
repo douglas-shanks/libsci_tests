@@ -1,0 +1,50 @@
+*** 1 OMP Thread
+
+The following have been reloaded with a version change:
+  1) PrgEnv-cray/8.0.0 => PrgEnv-cray/8.1.0
+  2) cce/11.0.4 => cce/12.0.3
+  3) cray-libsci/21.04.1.1 => cray-libsci/21.08.1.2
+  4) cray-mpich/8.1.4 => cray-mpich/8.1.9
+  5) craype/2.7.6 => craype/2.7.10
+
+
+Inactive Modules:
+  1) cray-mpich/8.1.9
+
+
+Currently Loaded Modules:
+  1) craype-x86-rome     6) cce/12.0.3             11) cray-ucx/2.7.0-1
+  2) bolt/0.7            7) cray-dsmml/0.2.1       12) craype-network-ucx
+  3) epcc-setup-env      8) cray-libsci/21.08.1.2  13) cray-mpich-ucx/8.1.9
+  4) load-epcc-module    9) craype/2.7.10
+  5) PrgEnv-cray/8.1.0  10) cpe/21.09
+
+ 
+
+/var/spool/slurmd/job1192530/slurm_script: line 31: export: `dc,': not a valid identifier
+/var/spool/slurmd/job1192530/slurm_script: line 31: export: `dc_mlx5,': not a valid identifier
+/var/spool/slurmd/job1192530/slurm_script: line 31: export: `dc_x,': not a valid identifier
+/var/spool/slurmd/job1192530/slurm_script: line 31: export: `ib,': not a valid identifier
+/var/spool/slurmd/job1192530/slurm_script: line 31: export: `mm,': not a valid identifier
+/var/spool/slurmd/job1192530/slurm_script: line 31: export: `posix,': not a valid identifier
+/var/spool/slurmd/job1192530/slurm_script: line 31: export: `rc,': not a valid identifier
+/var/spool/slurmd/job1192530/slurm_script: line 31: export: `rc_mlx5,': not a valid identifier
+/var/spool/slurmd/job1192530/slurm_script: line 31: export: `rc_v,': not a valid identifier
+/var/spool/slurmd/job1192530/slurm_script: line 31: export: `rc_verbs,': not a valid identifier
+/var/spool/slurmd/job1192530/slurm_script: line 31: export: `rc_x,': not a valid identifier
+/var/spool/slurmd/job1192530/slurm_script: line 31: export: `self,': not a valid identifier
+/var/spool/slurmd/job1192530/slurm_script: line 31: export: `shm,': not a valid identifier
+/var/spool/slurmd/job1192530/slurm_script: line 31: export: `sm,': not a valid identifier
+/var/spool/slurmd/job1192530/slurm_script: line 31: export: `sysv,': not a valid identifier
+/var/spool/slurmd/job1192530/slurm_script: line 31: export: `tcp,': not a valid identifier
+/var/spool/slurmd/job1192530/slurm_script: line 31: export: `ud,': not a valid identifier
+/var/spool/slurmd/job1192530/slurm_script: line 31: export: `ud_mlx5,': not a valid identifier
+/var/spool/slurmd/job1192530/slurm_script: line 31: export: `ud_v,': not a valid identifier
+/var/spool/slurmd/job1192530/slurm_script: line 31: export: `ud_verbs,': not a valid identifier
+ud,cma,
+PE 0: MPICH CH4 UCX netmod using transports [ud,cma,], devices [all]
+ ln = 8192
+ lnprow = 16
+ lnpcol = 16
+ lnbropw = 32
+ pdsyevd time:  4.3511161119999997

@@ -1,0 +1,65 @@
+*** 1 OMP Thread
+
+Lmod is automatically replacing "cce/11.0.4" with "gcc/10.2.0".
+
+
+Lmod is automatically replacing "PrgEnv-cray/8.0.0" with "PrgEnv-gnu/8.0.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) cray-mpich/8.1.4
+
+
+The following have been reloaded with a version change:
+  1) PrgEnv-gnu/8.0.0 => PrgEnv-gnu/8.1.0
+  2) cray-libsci/21.04.1.1 => cray-libsci/21.08.1.2
+  3) cray-mpich/8.1.4 => cray-mpich/8.1.9
+  4) craype/2.7.6 => craype/2.7.10
+  5) gcc/10.2.0 => gcc/11.2.0
+
+
+Currently Loaded Modules:
+  1) craype-x86-rome         6) load-epcc-module       11) craype/2.7.10
+  2) libfabric/1.11.0.4.71   7) PrgEnv-gnu/8.1.0       12) gcc/11.2.0
+  3) craype-network-ofi      8) cray-dsmml/0.2.1       13) cpe/21.09
+  4) bolt/0.7                9) cray-libsci/21.08.1.2
+  5) epcc-setup-env         10) cray-mpich/8.1.9
+
+ 
+
+	linux-vdso.so.1 (0x00007fffa62bd000)
+	libmpifort_cray.so.12 => /opt/cray/pe/lib64/libmpifort_cray.so.12 (0x00002b22bdf10000)
+	libsci_cray_mpi_mp.so.5 => /opt/cray/pe/lib64/libsci_cray_mpi_mp.so.5 (0x00002b22be0fc000)
+	libsci_cray_mp.so.5 => /opt/cray/pe/lib64/libsci_cray_mp.so.5 (0x00002b22bec3b000)
+	libdl.so.2 => /lib64/libdl.so.2 (0x00002b22c2b53000)
+	libquadmath.so.0 => /opt/cray/pe/gcc/11.2.0/snos/lib64/libquadmath.so.0 (0x00002b22c2d57000)
+	libcraymp.so.1 => /opt/cray/pe/cce/12.0.3/cce/x86_64/lib/libcraymp.so.1 (0x00002b22c2f9e000)
+	libmodules.so.1 => /opt/cray/pe/cce/12.0.3/cce/x86_64/lib/libmodules.so.1 (0x00002b22c3263000)
+	libfi.so.1 => /opt/cray/pe/cce/12.0.3/cce/x86_64/lib/libfi.so.1 (0x00002b22c347f000)
+	libcraymath.so.1 => /opt/cray/pe/cce/12.0.3/cce/x86_64/lib/libcraymath.so.1 (0x00002b22c3d8a000)
+	libf.so.1 => /opt/cray/pe/cce/12.0.3/cce/x86_64/lib/libf.so.1 (0x00002b22c406b000)
+	libu.so.1 => /opt/cray/pe/cce/12.0.3/cce/x86_64/lib/libu.so.1 (0x00002b22c42ff000)
+	libcsup.so.1 => /opt/cray/pe/cce/12.0.3/cce/x86_64/lib/libcsup.so.1 (0x00002b22c4613000)
+	libstdc++.so.6 => /opt/cray/pe/gcc/11.2.0/snos/lib64/libstdc++.so.6 (0x00002b22c4819000)
+	libpthread.so.0 => /lib64/libpthread.so.0 (0x00002b22c4c2b000)
+	libc.so.6 => /lib64/libc.so.6 (0x00002b22c4e4a000)
+	libm.so.6 => /lib64/libm.so.6 (0x00002b22c5205000)
+	libmpi_cray.so.12 => /opt/cray/pe/lib64/libmpi_cray.so.12 (0x00002b22c553d000)
+	/lib64/ld-linux-x86-64.so.2 (0x00002b22bded4000)
+	librt.so.1 => /lib64/librt.so.1 (0x00002b22c802a000)
+	libgcc_s.so.1 => /opt/cray/pe/gcc/11.2.0/snos/lib64/libgcc_s.so.1 (0x00002b22c8232000)
+	libgfortran.so.5 => /opt/cray/pe/gcc/11.2.0/snos/lib64/libgfortran.so.5 (0x00002b22c844b000)
+	libfabric.so.1 => /opt/cray/libfabric/1.11.0.4.71/lib64/libfabric.so.1 (0x00002b22c88f7000)
+	libatomic.so.1 => /opt/cray/pe/gcc/11.2.0/snos/lib64/libatomic.so.1 (0x00002b22c8ba4000)
+	libpmi2.so.0 => /opt/cray/pe/lib64/libpmi2.so.0 (0x00002b22c8dac000)
+	libpmi.so.0 => /opt/cray/pe/lib64/libpmi.so.0 (0x00002b22c8fe0000)
+	librdmacm.so.1 => /usr/lib64/librdmacm.so.1 (0x00002b22c91e2000)
+	libibverbs.so.1 => /usr/lib64/libibverbs.so.1 (0x00002b22c93fc000)
+	libpals.so.0 => /usr/lib64/libpals.so.0 (0x00002b22c9618000)
+	libnl-3.so.200 => /usr/lib64/libnl-3.so.200 (0x00002b22c981d000)
+	libnl-route-3.so.200 => /usr/lib64/libnl-route-3.so.200 (0x00002b22c9a3f000)
+ ln = 8192
+ lnprow = 16
+ lnpcol = 16
+ lnbropw = 32
+ pdsyevd time:  5.3486250200000995

@@ -1,0 +1,61 @@
+
+Currently Loaded Modules:
+  1) craype-x86-rome                         8) epcc-setup-env
+  2) libfabric/1.12.1.2.2.0.0                9) load-epcc-module
+  3) craype-network-ofi                     10) craype/2.7.19
+  4) perftools-base/22.12.0                 11) cray-dsmml/0.2.2
+  5) xpmem/2.5.2-2.4_3.30__gd0f7936.shasta  12) cray-mpich/8.1.23
+  6) cce/15.0.0                             13) cray-libsci/22.12.1.1
+  7) bolt/0.8                               14) PrgEnv-cray/8.3.3
+
+ 
+
+
+Inactive Modules:
+  1) cray-mpich
+
+ ================ UCX RUN ================ 
+ ln = 10240
+ lnprow = 32
+ lnpcol = 16
+ lnbropw = 20
+ pdsyevd time:  6.4972462629998518
+
+real	0m14.424s
+user	0m0.019s
+sys	0m0.109s
+Resetting modules to system default. Reseting $MODULEPATH back to system default. All extra directories will be removed from $MODULEPATH.
+
+Currently Loaded Modules:
+  1) craype-x86-rome                         8) cray-dsmml/0.2.2
+  2) libfabric/1.12.1.2.2.0.0                9) cray-mpich/8.1.23
+  3) craype-network-ofi                     10) cray-libsci/22.12.1.1
+  4) perftools-base/22.12.0                 11) PrgEnv-cray/8.3.3
+  5) xpmem/2.5.2-2.4_3.30__gd0f7936.shasta  12) bolt/0.8
+  6) cce/15.0.0                             13) epcc-setup-env
+  7) craype/2.7.19                          14) load-epcc-module
+
+ 
+
+ ================ OFI RUN ================ 
+MPICH_OFI_STARTUP_CONNECT =  0
+ ln = 10240
+ lnprow = 32
+ lnpcol = 16
+ lnbropw = 20
+ pdsyevd time:  9.2077012320000904
+
+real	0m15.477s
+user	0m0.017s
+sys	0m0.029s
+ ================ OFI RUN ================ 
+MPICH_OFI_STARTUP_CONNECT =  1
+ ln = 10240
+ lnprow = 32
+ lnpcol = 16
+ lnbropw = 20
+ pdsyevd time:  6.3944367980002426
+
+real	0m46.793s
+user	0m0.028s
+sys	0m0.014s

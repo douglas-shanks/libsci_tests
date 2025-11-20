@@ -1,0 +1,23 @@
+
+Currently Loaded Modules:
+  1) craype-x86-rome                         8) epcc-setup-env
+  2) libfabric/1.12.1.2.2.0.0                9) load-epcc-module
+  3) craype-network-ofi                     10) craype/2.7.19
+  4) perftools-base/22.12.0                 11) cray-dsmml/0.2.2
+  5) xpmem/2.5.2-2.4_3.30__gd0f7936.shasta  12) cray-mpich/8.1.23
+  6) cce/15.0.0                             13) cray-libsci/22.12.1.1
+  7) bolt/0.8                               14) PrgEnv-cray/8.3.3
+
+ 
+
+ ================ OFI RUN ================ 
+MPICH_OFI_STARTUP_CONNECT =  0
+ ln = 163840
+ lnprow = 128
+ lnpcol = 64
+ lnbropw = 20
+ pdsyevd time:  1280.0792026960003
+
+real	21m35.428s
+user	0m0.057s
+sys	0m0.241s

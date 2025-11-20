@@ -1,0 +1,12 @@
+*** 1 OMP Thread
+
+The following have been reloaded with a version change:
+  1) PrgEnv-cray/8.0.0 => PrgEnv-cray/8.1.0
+  2) cce/11.0.4 => cce/12.0.3
+  3) cray-libsci/21.04.1.1 => cray-libsci/21.08.1.2
+  4) cray-mpich/8.1.4 => cray-mpich/8.1.9
+  5) craype/2.7.6 => craype/2.7.10
+
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** STEP 1000487.0 ON nid002621 CANCELLED AT 2022-01-21T12:15:37 ***
+slurmstepd: error: *** JOB 1000487 ON nid002621 CANCELLED AT 2022-01-21T12:15:37 ***

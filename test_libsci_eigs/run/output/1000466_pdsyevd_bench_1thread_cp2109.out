@@ -1,0 +1,902 @@
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=69, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 69] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 69 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 69
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 69
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=90, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 90] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 90 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 90
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 90
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=121, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 121] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 121 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 121
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 121
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=123, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 123] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 123 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 123
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 123
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=5, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 5] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 5 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 5
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 5
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=9, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 9] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 9 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 9
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 9
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=11, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 11] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 11 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 11
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 11
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=13, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 13] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 13 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 13
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 13
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=27, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 27] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 27 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 27
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 27
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=33, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 33] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 33 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 33
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 33
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=61, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 61] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 61 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 61
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 61
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=65, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 65] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 65 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 65
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 65
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=70, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 70] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 70 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 70
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 70
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=75, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 75] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 75 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 75
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 75
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=97, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 97] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 97 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 97
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 97
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=101, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 101] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 101 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 101
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 101
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=102, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 102] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 102 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 102
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 102
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=103, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 103] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 103 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 103
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 103
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=105, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 105] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 105 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 105
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 105
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=106, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 106] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 106 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 106
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 106
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=107, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 107] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 107 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 107
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 107
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=109, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 109] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 109 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 109
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 109
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=113, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 113] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 113 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 113
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 113
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=117, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 117] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 117 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 117
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 117
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=6, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 6] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 6 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 6
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 6
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=12, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 12] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 12 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 12
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 12
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=15, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 15] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 15 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 15
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 15
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=17, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 17] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 17 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 17
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 17
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=22, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 22] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 22 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 22
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 22
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=23, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 23] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 23 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 23
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 23
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=26, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 26] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 26 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 26
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 26
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=30, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 30] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 30 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 30
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 30
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=31, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 31] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 31 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 31
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 31
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=34, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 34] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 34 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 34
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 34
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=39, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 39] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 39 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 39
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 39
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=41, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 41] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 41 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 41
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 41
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=53, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 53] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 53 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 53
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 53
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=55, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 55] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 55 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 55
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 55
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=56, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 56] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 56 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 56
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 56
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=59, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 59] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 59 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 59
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 59
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=71, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 71] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 71 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 71
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 71
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=72, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 72] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 72 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 72
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 72
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=73, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 73] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 73 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 73
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 73
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=80, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 80] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 80 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 80
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 80
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=86, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 86] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 86 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 86
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 86
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=89, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 89] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 89 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 89
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 89
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=96, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 96] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 96 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 96
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 96
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=98, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 98] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 98 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 98
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 98
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=99, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 99] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 99 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 99
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 99
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=116, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 116] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 116 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 116
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 116
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=125, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 125] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 125 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 125
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 125
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=1, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 1] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 1 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 1
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 1
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=3, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 3] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 3 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 3
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 3
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=7, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 7] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 7 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 7
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 7
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=16, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 16] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 16 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 16
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 16
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=32, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 32] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 32 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 32
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 32
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=38, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 38] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 38 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 38
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 38
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=63, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 63] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 63 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 63
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 63
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=43, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=62, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=95, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 43] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 43 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 43
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 43
+MPICH ERROR [Rank 62] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 62 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 62
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 62
+MPICH ERROR [Rank 95] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 95 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 95
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 95
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=122, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 122] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 122 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 122
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 122
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=0, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=8, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 8] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 8 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 8
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 8
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=20, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 20] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 20 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 20
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 20
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=46, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 46] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 46 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 46
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 46
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=47, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 47] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 47 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 47
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 47
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=49, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 49] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 49 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 49
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 49
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=50, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 50] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 50 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 50
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 50
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=54, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 54] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 54 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 54
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 54
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=57, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 57] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 57 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 57
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 57
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=64, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 64] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 64 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 64
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 64
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=66, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 66] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 66 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 66
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 66
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=124, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 124] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 124 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 124
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 124
+ ln = 16384
+ lnprow = 16
+ lnpcol = 16
+ lnbropw = 64
+MPICH ERROR [Rank 0] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 0 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 0
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 0
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=10, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 10] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 10 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 10
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 10
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=19, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 19] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 19 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 19
+
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=28, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 28] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 28 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 28
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 28
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=37, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 37] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 37 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 37
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 37
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=48, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 48] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 48 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 48
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 48
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=91, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 91] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 91 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 91
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 91
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=92, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 92] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 92 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 92
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 92
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=94, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 94] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 94 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 94
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 94
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=118, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 118] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 118 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 118
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 118
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=119, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 119] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 119 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 119
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 119
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 19
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=36, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 36] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 36 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 36
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 36
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=51, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 51] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 51 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 51
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 51
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=67, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 67] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 67 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 67
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 67
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=83, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 83] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 83 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 83
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 83
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=88, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 88] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 88 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 88
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 88
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=93, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 93] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 93 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 93
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 93
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=111, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 111] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 111 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 111
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 111
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=120, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 120] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 120 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 120
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 120
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=127, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 127] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 127 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 127
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 127
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=18, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=35, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=52, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 52] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 52 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 52
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 52
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=58, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 58] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 58 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 58
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 58
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=76, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 76] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 76 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 76
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 76
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=100, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 100] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 100 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 100
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 100
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=104, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 104] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 104 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 104
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 104
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=110, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 110] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 110 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 110
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 110
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=114, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 114] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 114 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 114
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 114
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=115, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 115] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 115 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 115
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 115
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=4, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 4] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 4 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 4
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 4
+MPICH ERROR [Rank 18] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 18 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 18
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 18
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=24, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 24] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 24 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 24
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 24
+MPICH ERROR [Rank 35] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 35 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 35
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 35
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=45, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 45] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 45 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 45
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 45
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=60, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 60] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 60 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 60
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 60
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=77, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 77] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 77 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 77
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 77
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=81, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 81] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 81 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 81
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 81
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=85, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 85] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 85 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 85
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 85
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=87, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 87] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 87 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 87
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 87
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=126, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 126] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 126 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 126
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 126
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=21, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 21] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 21 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 21
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 21
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=25, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 25] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 25 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 25
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 25
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=44, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 44] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 44 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 44
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 44
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=79, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 79] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 79 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 79
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 79
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=82, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 82] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 82 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 82
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 82
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=2, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 2] [job id 1000466.0] [Fri Jan 21 12:09:57 2022] [nid001439] - Abort(1) (rank 2 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 2
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 2
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=108, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 108] [job id 1000466.0] [Fri Jan 21 12:09:58 2022] [nid001439] - Abort(1) (rank 108 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 108
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 108
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=74, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 74] [job id 1000466.0] [Fri Jan 21 12:09:58 2022] [nid001439] - Abort(1) (rank 74 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 74
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 74
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=29, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 29] [job id 1000466.0] [Fri Jan 21 12:09:58 2022] [nid001439] - Abort(1) (rank 29 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 29
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 29
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=84, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 84] [job id 1000466.0] [Fri Jan 21 12:09:58 2022] [nid001439] - Abort(1) (rank 84 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 84
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 84
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=14, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 14] [job id 1000466.0] [Fri Jan 21 12:09:58 2022] [nid001439] - Abort(1) (rank 14 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 14
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 14
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=112, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 112] [job id 1000466.0] [Fri Jan 21 12:09:58 2022] [nid001439] - Abort(1) (rank 112 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 112
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 112
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=40, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 40] [job id 1000466.0] [Fri Jan 21 12:09:58 2022] [nid001439] - Abort(1) (rank 40 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 40
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 40
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=42, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 42] [job id 1000466.0] [Fri Jan 21 12:09:58 2022] [nid001439] - Abort(1) (rank 42 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 42
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 42
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=68, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 68] [job id 1000466.0] [Fri Jan 21 12:09:58 2022] [nid001439] - Abort(1) (rank 68 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 68
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 68
+BLACS ERROR 'Illegal grid (16 x 16), #procs=128'
+from {-1,-1}, pnum=78, Contxt=-1, on line -1 of file 'BLACS_GRIDINIT/BLACS_GRIDMAP'.
+
+MPICH ERROR [Rank 78] [job id 1000466.0] [Fri Jan 21 12:09:58 2022] [nid001439] - Abort(1) (rank 78 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 78
+
+aborting job:
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 78
+srun: error: nid001439: tasks 0-127: Exited with exit code 255
+srun: launch/slurm: _step_signal: Terminating StepId=1000466.0

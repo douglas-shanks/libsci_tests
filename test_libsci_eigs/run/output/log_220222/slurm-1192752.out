@@ -1,0 +1,18 @@
+*** 1 OMP Thread
+
+Currently Loaded Modules:
+  1) cce/11.0.4                                  8) cray-mpich/8.1.4
+  2) craype/2.7.6                                9) cray-libsci/21.04.1.1
+  3) craype-x86-rome                            10) PrgEnv-cray/8.0.0
+  4) libfabric/1.11.0.4.71                      11) bolt/0.7
+  5) craype-network-ofi                         12) epcc-setup-env
+  6) perftools-base/21.02.0                     13) load-epcc-module
+  7) xpmem/2.2.40-7.0.1.0_2.7__g1d7a24d.shasta
+
+ 
+
+ ln = 8192
+ lnprow = 16
+ lnpcol = 16
+ lnbropw = 32
+ pdsyevd time:  5.3898634199999833

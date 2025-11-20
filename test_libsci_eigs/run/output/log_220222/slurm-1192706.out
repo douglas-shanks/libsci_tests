@@ -1,0 +1,24 @@
+*** 1 OMP Thread
+
+The following have been reloaded with a version change:
+  1) PrgEnv-cray/8.0.0 => PrgEnv-cray/8.1.0
+  2) cce/11.0.4 => cce/12.0.3
+  3) cray-libsci/21.04.1.1 => cray-libsci/21.08.1.2
+  4) cray-mpich/8.1.4 => cray-mpich/8.1.9
+  5) craype/2.7.6 => craype/2.7.10
+
+
+Currently Loaded Modules:
+  1) craype-x86-rome         6) load-epcc-module       11) cray-mpich/8.1.9
+  2) libfabric/1.11.0.4.71   7) PrgEnv-cray/8.1.0      12) craype/2.7.10
+  3) craype-network-ofi      8) cce/12.0.3             13) cpe/21.09
+  4) bolt/0.7                9) cray-dsmml/0.2.1
+  5) epcc-setup-env         10) cray-libsci/21.08.1.2
+
+ 
+
+ ln = 8192
+ lnprow = 16
+ lnpcol = 16
+ lnbropw = 32
+ pdsyevd time:  4.9219937279999613

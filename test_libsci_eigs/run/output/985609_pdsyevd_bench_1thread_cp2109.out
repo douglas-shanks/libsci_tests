@@ -1,0 +1,5 @@
+ ln = 4096
+ lnprow = 16
+ lnpcol = 8
+ lnbropw = 32
+ pdsyevd time:  2.2561367050002445
