@@ -1,0 +1,58 @@
+Starting job 6238594 at Mon 08 Apr 2024 05:20:02 PM BST
+nodes
+nid004732
+
+
+Currently Loaded Modules:
+  1) craype-x86-rome                         8) cray-dsmml/0.2.2
+  2) libfabric/1.12.1.2.2.0.0                9) cray-mpich/8.1.23
+  3) craype-network-ofi                     10) cray-libsci/22.12.1.1
+  4) perftools-base/22.12.0                 11) PrgEnv-cray/8.3.3
+  5) xpmem/2.5.2-2.4_3.30__gd0f7936.shasta  12) bolt/0.8
+  6) cce/15.0.0                             13) epcc-setup-env
+  7) craype/2.7.19                          14) load-epcc-module
+
+ 
+
+rm: cannot remove 'cgemm.o': No such file or directory
+1
+1
+ 
+ 2-norm of Matrix C:
+ 500064.625
+2
+2
+ 
+ 2-norm of Matrix C:
+ 500064.625
+4
+4
+ 
+ 2-norm of Matrix C:
+ 500064.625
+8
+8
+ 
+ 2-norm of Matrix C:
+ 500064.625
+16
+16
+ 
+ 2-norm of Matrix C:
+ 500064.625
+32
+32
+ 
+ 2-norm of Matrix C:
+ 500064.625
+84
+84
+ 
+ 2-norm of Matrix C:
+ 500064.625
+128
+128
+ 
+ 2-norm of Matrix C:
+ 500064.625
+Finished job at Mon 08 Apr 2024 05:20:24 PM BST

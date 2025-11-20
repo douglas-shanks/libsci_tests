@@ -1,0 +1,62 @@
+Starting job 6330595 at Mon 15 Apr 2024 10:40:43 AM BST
+nodes
+nid[001974,001979]
+
+
+Currently Loaded Modules:
+  1) craype-x86-rome                         8) cray-dsmml/0.2.2
+  2) libfabric/1.12.1.2.2.0.0                9) cray-mpich/8.1.23
+  3) craype-network-ofi                     10) cray-libsci/22.12.1.1
+  4) perftools-base/22.12.0                 11) PrgEnv-cray/8.3.3
+  5) xpmem/2.5.2-2.4_3.30__gd0f7936.shasta  12) bolt/0.8
+  6) cce/15.0.0                             13) epcc-setup-env
+  7) craype/2.7.19                          14) load-epcc-module
+
+ 
+
+rm: cannot remove 'pdsygvx': No such file or directory
+ STOP  
+Z(     1,     1)=     -0.485377931880384972E-01
+Z(     2,     1)=     -0.122222718667358579E+00
+Z(     3,     1)=     -0.282485135303397528E+00
+Z(     4,     1)=      0.950214627337748419E+00
+Z(     1,     2)=      0.912072227031436866E-01
+Z(     2,     2)=      0.426620092092789505E+00
+Z(     3,     2)=     -0.877038303257524410E+00
+Z(     4,     2)=     -0.201197301593937422E+00
+Z(     1,     3)=      0.495193043045525749E+00
+Z(     2,     3)=     -0.798642041261893532E+00
+Z(     3,     3)=     -0.298844131980118721E+00
+Z(     4,     3)=     -0.166273644422072042E+00
+Z(     1,     4)=      0.862617629821305076E+00
+Z(     2,     4)=      0.406482218545086704E+00
+Z(     3,     4)=      0.248391118466086303E+00
+Z(     4,     4)=      0.170190725350426925E+00
+  N = 4
+  A =  hilb(N) + diag([1:-1/N:1/N])
+  W( 1 )= 0.30481403606055119 ;
+  W( 2 )= 0.5819612021420183 ;
+  W( 3 )= 0.90849811000512604 ;
+  W( 4 )= 2.380917127982781 ;
+  backerror = A - Z * diag(W) * Z' 
+  resid = A * Z - Z * diag(W)
+  ortho = Z' * Z - eye(N)
+  norm(backerror)
+  norm(resid)
+  norm(ortho)
+ STOP  
+ STOP  
+ STOP  
+ STOP  
+ STOP  
+ STOP  
+ STOP  
+ STOP  
+ STOP  
+ STOP  
+ STOP  
+ STOP  
+ STOP  
+ STOP  
+ STOP  
+Finished job at Mon 15 Apr 2024 10:40:50 AM BST

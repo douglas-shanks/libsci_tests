@@ -1,0 +1,62 @@
+Starting job 6330774 at Mon 15 Apr 2024 11:04:01 AM BST
+nodes
+nid[004032,006572]
+
+
+Currently Loaded Modules:
+  1) craype-x86-rome                         8) cray-dsmml/0.2.2
+  2) libfabric/1.12.1.2.2.0.0                9) cray-mpich/8.1.23
+  3) craype-network-ofi                     10) cray-libsci/22.12.1.1
+  4) perftools-base/22.12.0                 11) PrgEnv-cray/8.3.3
+  5) xpmem/2.5.2-2.4_3.30__gd0f7936.shasta  12) bolt/0.8
+  6) cce/15.0.0                             13) epcc-setup-env
+  7) craype/2.7.19                          14) load-epcc-module
+
+ 
+
+ STOP  
+ STOP  
+ STOP  
+ STOP  
+Z(     1,     1)=      0.536103622414071321E-01
+Z(     2,     1)=     -0.311553833940813587E-02
+Z(     3,     1)=     -0.128495257959408110E+00
+Z(     4,     1)=     -0.409729038670915868E+00
+Z(     1,     2)=     -0.110882173079752872E+00
+Z(     2,     2)=     -0.312013084568330323E+00
+Z(     3,     2)=     -0.283543176475211156E+00
+Z(     4,     2)=      0.428605636991220895E+00
+Z(     1,     3)=      0.341700728931123410E+00
+Z(     2,     3)=      0.263559451286669744E+00
+Z(     3,     3)=     -0.864031759174062164E+00
+Z(     4,     3)=      0.498415380676342612E+00
+Z(     1,     4)=      0.684157646015445708E+00
+Z(     2,     4)=     -0.912783952595838000E+00
+Z(     3,     4)=      0.395653073910550657E+00
+Z(     4,     4)=     -0.119629194318969555E-02
+  N = 4
+  A =  hilb(N) + diag([1:-1/N:1/N])
+  B = toeplitz( N:-1:1 ) 
+  W( 1 )= 8.57862571845201816E-2 ;
+  W( 2 )= 0.24052843660311421 ;
+  W( 3 )= 0.70246946338258576 ;
+  W( 4 )= 1.3235967952107315 ;
+  backerror = A - B * Z * diag(W) * Z' * B
+  resid = A * Z - B * Z * diag(W)
+  ortho = Z' * B * Z - eye(N)
+  norm(ortho)
+  norm(resid)
+  norm(backerror)
+ STOP  
+ STOP  
+ STOP  
+ STOP  
+ STOP  
+ STOP  
+ STOP  
+ STOP  
+ STOP  
+ STOP  
+ STOP  
+ STOP  
+Finished job at Mon 15 Apr 2024 11:04:09 AM BST
